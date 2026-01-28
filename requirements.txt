@@ -1,0 +1,7 @@
+duckdb
+pandas
+requests
+dbt-core
+dbt-duckdb
+pandera
+python-dotenv
